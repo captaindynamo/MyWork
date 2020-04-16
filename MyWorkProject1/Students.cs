@@ -6,6 +6,6 @@ namespace MyWorkProject1
 {
     class Students
     {
-        string firstName;
+        public string firstName { get; set; }
     }
 }
